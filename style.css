@@ -13,7 +13,7 @@ body{
     height: 100vh;
     width: 100vw;
     overflow: hidden;
-    background:      rgb(102, 36, 11);
+    background:      rgb(152, 142, 139);
 }
 .flipbook{
     width: 1000px;
@@ -47,5 +47,5 @@ body{
     width: 70%;
     object-fit: cover;
     margin: auto;
-    
+
 }
